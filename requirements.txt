@@ -1,0 +1,4 @@
+nutritionix
+pytest
+pytest-cov
+Flask
